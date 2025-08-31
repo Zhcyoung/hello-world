@@ -6,3 +6,5 @@ this is the file2.txt
 this is the file2.txt
 this is the file2.txt
 this is the file2.txt
+add a sequence
+add b sequence
